@@ -4,7 +4,8 @@
   "description": "Hi from Alice!",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"No tests yet\""
+    "test": "echo \"No tests yet\"",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
